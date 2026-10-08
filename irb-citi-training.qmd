@@ -1,0 +1,47 @@
+---
+title: "IRB Application and Approval Process: CITI Training and Certificate"
+author: "Rosarie Maramag"
+date: "2026-10-08"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    number-sections: false
+    code-fold: false
+    embed-resources: true
+    theme: cosmo
+---
+
+## Overview
+
+This report documents my completion of the Collaborative Institutional Training Initiative (CITI) Program training required for human subjects research at California State Polytechnic University, Pomona (CPP). Following the instructions on the CPP Institutional Review Board (IRB) website, I completed the human research training and obtained the CITI completion certificate.
+
+## Course Completed
+
+| Item                     | Details                                         |
+|------------------------------------|------------------------------------|
+| **Learner**              | Rosarie Maramag                                 |
+| **Curriculum Group**     | Human Research                                  |
+| **Course Learner Group** | CPP - Introduction to Human Subjects 101        |
+| **Stage**                | 1 - Basic Course                                |
+| **Requirements set by**  | California State Polytechnic University, Pomona |
+| **Completion Date**      | 08-Oct-2026                                     |
+| **Expiration Date**      | 08-Oct-2031                                     |
+| **Record ID**            | 80180397                                        |
+
+## CITI Completion Certificate
+
+![](images/clipboard-64335030.png)
+
+## Summary
+
+The CPP - Introduction to Human Subjects 101 course covers the ethical principles and regulations that govern research involving human participants, including informed consent, risk and privacy protections, and the role of the IRB in reviewing research before data collection begins. Completing this training is a prerequisite for submitting an IRB protocol, and it applies directly to any project in which I collect data from people, such as surveys or interviews, whether in person or online.
+
+The certificate is valid for five years, from 08-Oct-2026 through 08-Oct-2031.
+
+## Appendix {.appendix}
+
+### Links
+
+-   [This report on GitHub Pages](https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPO-NAME/irb-citi-training.html)
+-   [Source repository on GitHub](https://github.com/YOUR-GITHUB-USERNAME/YOUR-REPO-NAME)
